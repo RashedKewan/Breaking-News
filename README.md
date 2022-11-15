@@ -18,10 +18,10 @@ run the jar file: java -jar target/YnetBreakingNews-0.0.1-SNAPSHOT.jar
 ```
 
 ### *Website Home Page*
-![](imgs/ynet-news-page.png)
+![](ynet-news-page.png)
 
 ### *Jenkins Pipeline Job*
-![](imgs/jenkins-pipeline-img.png)
+![](jenkins-pipeline-img.png)
 
 ### *Slack Notification*
-![](imgs/slack-notification.png)
+![](slack-notification.png)
