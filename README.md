@@ -17,11 +17,11 @@ mvn clean package
 run the jar file: java -jar target/YnetBreakingNews-0.0.1-SNAPSHOT.jar
 ```
 
-Website Home Page
+### *Website Home Page*
 ![](imgs/ynet-news-page.png)
 
-Jenkins Pipeline Job
+### *Jenkins Pipeline Job*
 ![](imgs/jenkins-pipeline-img.png)
 
-Slack Notification
+### *Slack Notification*
 ![](imgs/slack-notification.png)
